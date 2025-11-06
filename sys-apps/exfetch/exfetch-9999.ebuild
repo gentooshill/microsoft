@@ -12,7 +12,7 @@ KEYWORDS=""
 IUSE="static mt"
 
 DEPEND="
-	dev-lang/crystal
+	dev-lang/crystal-bin
 	dev-util/shards
 "
 RDEPEND="${DEPEND}"
