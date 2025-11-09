@@ -1,4 +1,4 @@
-# get it yourself good luck bro
+# ::microsoft
 
 Personal Gentoo overlay.
 
